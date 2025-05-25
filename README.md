@@ -61,8 +61,8 @@
 ## Output:
 ![Screenshot 2025-05-22 173209](https://github.com/user-attachments/assets/bb1c78ba-4f08-407e-8ac3-0498a7a5f44d)
 
-### Name: HAREESH R
-### Register Number: 212223230068
+### Name: KAVINILAVAN DK
+### Register Number: 212223230103
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
